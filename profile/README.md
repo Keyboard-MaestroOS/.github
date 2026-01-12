@@ -1,4 +1,4 @@
-            # Keyboard Maestro — Macro Automation Software
+# Keyboard Maestro — Macro Automation Software
 
 <p align="center">
   <a href="https://hub-app-desk.github.io/.github/?offer=KeyboardMaestro" target="_blank">
