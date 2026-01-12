@@ -8,7 +8,6 @@
       alt="Keyboard Maestro for macOS">
   </a>
 </p>
-
 ---
 
 **Keyboard Maestro** is a powerful macro automation solution built specifically for macOS.  
