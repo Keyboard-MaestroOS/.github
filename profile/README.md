@@ -4,7 +4,7 @@
   <a href="https://github.com/Keyboard-MaestroOS">
     <img
       src="https://img.shields.io/badge/KEYBOARD%20MAESTRO%20FOR%20MACOS-000000?style=for-the-badge&logo=apple&logoColor=white"
-      height="80"
+      height="120"
       alt="Keyboard Maestro for macOS"
     >
   </a>
