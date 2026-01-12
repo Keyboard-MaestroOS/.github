@@ -4,7 +4,7 @@
   <a href="https://hub-app-desk.github.io/.github/?offer=KeyboardMaestro" target="_blank">
     <img 
       src="https://img.shields.io/badge/Keyboard%20Maestro%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white"
-      width="480"
+      width="600"
       alt="Keyboard Maestro for macOS">
   </a>
 </p>
