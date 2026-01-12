@@ -56,6 +56,22 @@ This repository may contain:
 
 ---
 
+## 🖼 Preview
+
+![Keyboard Maestro Automation Interface](https://www.keyboardmaestro.com/img/v11/KeyboardMaestro11Poster.png)
+
+---
+
+## 🔍 Tags
+keyboard maestro, download keyboard maestro, keyboard maestro mac, keyboard maestro for mac, key maestro, keyboard maestro macos, keyboard maestro download, macro automation, workflow automation, keyboard shortcuts, productivity tools, automation software, macro creator, task automation, efficiency tools, workflow optimization
+
+---
+
+## 🔑 SEO Meta Descriptions
+Download Keyboard Maestro - create custom macros, automate repetitive tasks, and streamline workflows with powerful keyboard-driven automation. Macro automation software for enhanced productivity.
+
+---
+
 ## 📌 Getting Started
 
 1. Visit the repository using the button above  
