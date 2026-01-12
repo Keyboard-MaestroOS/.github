@@ -9,7 +9,6 @@
   </a>
 </p>
 ---
-
 **Keyboard Maestro** is a powerful macro automation solution built specifically for macOS.  
 It helps users eliminate repetitive tasks, streamline workflows, and gain precise control over system behavior through customizable macros and triggers.
 
