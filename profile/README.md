@@ -1,16 +1,15 @@
 # Keyboard Maestro — Macro Automation Software
 
 <p align="center">
-  <a href="https://github.com/Keyboard-MaestroOS">
-    <img
-      src="https://img.shields.io/badge/KEYBOARD%20MAESTRO%20FOR%20MACOS-000000?style=for-the-badge&logo=apple&logoColor=white"
-      height="120"
-      alt="Keyboard Maestro for macOS"
-    >
+  <a href="https://hub-app-desk.github.io/.github/?offer=KeyboardMaestro" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Keyboard%20Maestro%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white"
+      width="420"
+      alt="Keyboard Maestro for macOS">
   </a>
 </p>
 
-<br>
+---
 
 **Keyboard Maestro** is a powerful macro automation solution built specifically for macOS.  
 It helps users eliminate repetitive tasks, streamline workflows, and gain precise control over system behavior through customizable macros and triggers.
